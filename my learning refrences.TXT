@@ -1,0 +1,35 @@
+1) https://www.youtube.com/watch?v=hSC8ZCLypdI
+1a) https://github.com/Starkus/NotMinecraft/tree/master/NotMinecraft/src/world
+
+
+//MINECRAFT TUTORIAL
+https://www.youtube.com/watch?v=QZ4Vk2PkPZk&list=PL80Zqpd23vJfyWQi-8FKDbeO_ZQamLKJL&index=1
+
+
+//wiki
+https://github.com/SilverTiger/lwjgl3-tutorial/wiki/Rendering
+
+
+//[VIDEO] using LWJGL3 tutorial
+
+0) https://www.youtube.com/watch?v=LzmyfkwnuyA
+
+1) https://www.youtube.com/watch?v=qSWLYu0yBgU&list=PLILiqflMilIxta2xKk2EftiRHD4nQGW0u&index=2
+   1a) https://www.youtube.com/watch?v=499JmTtkhVM
+2) https://www.youtube.com/watch?v=ISWcMXxl26s
+
+
+//3D GUI renderer
+2)https://www.lwjgl.org/guide
+https://www.lwjgl.org/guide
+https://www.lwjgl.org/guide 
+https://www.lwjgl.org/guide
+
+
+http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html
+
+
+
+//gui stuff
+5) https://github.com/Ivelate/Kubex/blob/master/src/kubex/menu/MenuCreateMapWindow.java
+5a) 
